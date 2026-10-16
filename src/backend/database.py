@@ -121,7 +121,7 @@ initial_activities = {
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Dive into epic adventures, unforgettable heroes, and the bold art style that makes Japanese manga impossible to put down.",
+        "description": "Step into the world of Japanese manga with action-packed story arcs, iconic characters, and dramatic moments that keep every chapter exciting.",
         "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
